@@ -17,7 +17,7 @@ Regelmässig veranstalten wir 2-halb-tätige workshops - unsere _Coding Days_ . 
 
 ## Registrierung zum Kurs
 
-👉 [Registrierungsformular 📋](mailto:coding.ismaning@gmail.com?Subject=Anmeldung%20zu%20Coding%20Days&Body=Name%20%des&%20Kindes:%0D%0AAlter%20des%20Kindes:%0D%0ASchule:)
+👉 [Registrierungsformular 📋](mailto:coding.ismaning@gmail.com?Subject=Anmeldung%20zu%20Coding%20Days&Body=Name%20%des%20Kindes:%0D%0AAlter%20des%20Kindes:%0D%0ASchule:)
 # Info
 ##### 🇩🇪
 ##### 🇬🇧
