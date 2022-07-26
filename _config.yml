@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Ismaninger Coding School
 description: Lerne programmieren und hab' Spass dabei
+logo: /assets/img/logo.jpg
+email: coding.ismaning@gmail.com
+blank_title: true
+favicon: true
