@@ -1,7 +1,7 @@
 # Dein Einstieg ins Programmieren :tada:
-
+Willkommen bei der Ismaninger Coding School
 ![Coding Kids](assets/img/codingkids.jpeg)
-
+Unser Ziel ist, es Euch das Programmieren beizubringen und somit für die Informationstechnologie (IT). Denn Coden ist cool und es gibt eine Menge spannende Berufe!
 # Unsere Kurse
 
 ## Programmiere deine ersten Spiele - mit einer Schlange :snake: ?
