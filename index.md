@@ -2,7 +2,7 @@
 
 ![Coding Kids](assets/img/codingkids.jpeg)
 
-Unser Ziel ist, es Euch das Programmieren beizubringen und somit für die Informationstechnologie (IT) zu begeistern. Denn Coden ist cool und es gibt in der IT viele spannende Berufe!
+Unser Ziel ist es, Euch das Programmieren beizubringen und somit für die Informationstechnologie (IT) zu begeistern. Denn Coden ist cool und es gibt in der IT viele spannende Berufe!
 # Programmiere deine ersten Spiele - mit einer Schlange :snake: ?
 
 [_Python_](python.org) ist eine weitverbreitete und beliebte Programmiersprache, mit der Du schnell lernst wie du Dein erstes eigenes Program schreiben kannst!
