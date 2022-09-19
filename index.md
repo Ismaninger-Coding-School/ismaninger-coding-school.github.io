@@ -34,4 +34,23 @@ Donec et est euismod, porta elit non, egestas sapien. Phasellus faucibus risus v
 # Kontakt
 
 # Impressum
-Donec et est euismod, porta elit non, egestas sapien. Phasellus faucibus risus vel turpis posuere lacinia. Morbi dignissim ex nec congue tempus. Etiam consectetur urna in urna dapibus, a mollis arcu dictum. In maximus feugiat semper. Duis sit amet tempor nibh. Pellentesque eu purus convallis, finibus eros vel, porta lacus. Aliquam viverra justo diam, non auctor eros finibus vel. Vestibulum ultrices odio porttitor auctor venenatis. Aliquam erat volutpat. Fusce at magna massa. Donec non tellus laoreet, mollis erat at, viverra neque. Fusce pellentesque lorem orci, et rutrum ligula sodales a. In ac vehicula mauris, vel fermentum risus. Morbi malesuada condimentum justo ac imperdiet.
+
+Angaben gemäß § 5 TMG
+Jens Dauner
+Gemeinnützige Programmierkurse für Jugendliche
+Wiesstr. 39a
+85737 Ismaning
+
+
+Kontakt
+
+Telefon: 08971909963
+Telefax: +49 123 44 55 99
+E-Mail: jens.dauner@gmx.de
+
+
+Redaktionell verantwortlich
+
+Jens Dauner
+Wiesstr. 39a
+85737 Ismaning
