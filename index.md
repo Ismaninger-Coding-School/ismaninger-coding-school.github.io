@@ -28,9 +28,9 @@ Als Abschluss gibt es eine Teilnahmeurkunde, die für spätere Bewerbungen verwe
 ![33](https://user-images.githubusercontent.com/100297303/192149045-3160459f-fef4-49b8-8c79-6dba25660eea.jpeg)
 
 
-# Das Teeam
+# Das Team
 
-Und das ist das Team der Ismaninger Coding School:
+Und das ist Euer  Team der Ismaninger Coding School:
 
 Inken:
 
