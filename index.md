@@ -25,7 +25,10 @@ Als Abschluss gibt es eine Teilnahmeurkunde, die für spätere Bewerbungen verwe
 
 
 # Galerie
-![33](https://user-images.githubusercontent.com/100297303/192149045-3160459f-fef4-49b8-8c79-6dba25660eea.jpeg)
+
+<!--- Bildgröße kann auch z. B. mit height="200" verändert werden, hab das jetzt nur mal beispielhaft gemacht --->
+
+<img src="https://user-images.githubusercontent.com/100297303/192149045-3160459f-fef4-49b8-8c79-6dba25660eea.jpeg" width="200" />
 
 
 # Das Team
@@ -36,7 +39,7 @@ Inken:
 
 
 Veronika:
-
+Ich bin seit Juli 2022 als Tutorin bei der Ismaninger Coding School dabei. Programmieren habe ich vor allem als Werkstudentin während meines Mathestudiums an der TUM gelernt. Ich finde, man muss nicht bis zum Studium warten, um mit dem Coden anzufangen!
 
 David:
 
