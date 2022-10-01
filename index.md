@@ -15,9 +15,10 @@ Unser Ziel ist es, Euch das Programmieren beizubringen und somit für die Inform
 Regelmässig veranstalten wir 2-halb-tätige workshops - unsere _Coding Days_ . Dabei begleiten wir Euch in zwei halben Tagen (Sa/So 9:00 - 12:30) beim Erlernen der Grundkonzepte des Programmierens. Zum Ende des zweiten Tages seid ihr sogar schon in der Lage, Euer erstes eigenes Program zu schreiben - ein Zahlenratespiel zum Beispiel!
 
 👉 [Kontaktaufnahme 📋](mailto:coding.ismaning@gmail.com?Subject=Anmeldung%20zu%20Coding%20Days&Body=Name%20des%20Kindes:%0D%0AAlter%20des%20Kindes:%0D%0ASchule:)
+
 # Infos für Eltern
 
-86 000 IT-Stellen sind in Deutschland nicht besetzt. Rund zwei Drittel aller Firmen sucht händeringend Fachkräfte – viele Stellen sind überdurchschnittlich gut bezahlt. 
+86 000 IT-Stellen sind in Deutschland nicht besetzt. Rund zwei Drittel aller Firmen sucht händeringend Fachkräfte – viele Stellen sind überdurchschnittlich gut bezahlt.
 
 Mit diesem Kurs taucht Ihr Kind in die Welt der Computer und Informationstechnologie ein. In nur 2 halben Tagen lernt Ihre Tochter oder Ihr Sohn das Programmieren eines Computerspiels!
 
@@ -35,17 +36,17 @@ Als Abschluss gibt es eine Teilnahmeurkunde, die für spätere Bewerbungen verwe
 
 Und das ist Euer  Team der Ismaninger Coding School:
 
-Inken:
+### Inken:
 
 
-Veronika:
+### Veronika:
 Ich bin seit Juli 2022 als Tutorin bei der Ismaninger Coding School dabei. Programmieren habe ich vor allem als Werkstudentin während meines Mathestudiums an der TUM gelernt. Ich finde, man muss nicht bis zum Studium warten, um mit dem Coden anzufangen!
 
-David:
+### David:
+Mich hat die Begeisterung für Computer und Programmieren eher spät gepackt - erst im Studium an der Uni. Mittlerweile bin ich seit mehreren Jahren Softwareentwickler und lerne immer noch jeden Tag coole neue Sachen dazu.
+### Konrad:
 
-Konrad:
-
-Jens:
+### Jens:
 Ich bin der Gründer der Ismaninger Coding School. Hauptberuflich arbeite ich in einem amerikanischen Software-Unternehmen. Als Kind hatte ich auch mit viel Spaß programmieren gelernt und freue mich nun viele weitere Kinder dafür zu begeistern.
 
 
@@ -81,4 +82,3 @@ Jens Dauner
 Wiesstr. 39a
 
 85737 Ismaning
-
