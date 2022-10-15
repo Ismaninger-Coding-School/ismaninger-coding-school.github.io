@@ -34,10 +34,10 @@ Als Abschluss gibt es eine Teilnahmeurkunde, die für spätere Bewerbungen verwe
 
 # Das Team
 
-Und das ist Euer  Team der Ismaninger Coding School:
+Und das ist Euer Team der Ismaninger Coding School:
 
 ### Inken:
-
+Ich habe die Coding School mitgegründet und zusammen mit Veronika erstelle und leite ich die Kurse. Ich habe im Physikstudium mit dem programmieren angefangen und hatte dabei so viel Spaß, dass ich beschlossen habe, danach noch ein Informatikstudium zu machen! Ich freue mich, mit anderen meine Begeisterung für dieses Gebiet zu teilen. 
 
 ### Veronika:
 Ich bin seit Juli 2022 als Tutorin bei der Ismaninger Coding School dabei. Programmieren habe ich vor allem als Werkstudentin während meines Mathestudiums an der TUM gelernt. Ich finde, man muss nicht bis zum Studium warten, um mit dem Coden anzufangen!
